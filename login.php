@@ -1,3 +1,4 @@
+//author Stephen Khan
 <?php 
 
 //Connects to your Database 
